@@ -1,4 +1,4 @@
-# Medical Appointment Booking Website
+# StayHealthy Medical Appointment Booking Website
 
 Welcome to our Medical Appointment Booking Website! This platform allows users to easily find doctors based on specialties, book appointments, and leave reviews.
 
